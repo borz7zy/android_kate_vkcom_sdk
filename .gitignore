@@ -1,6 +1,11 @@
+/target
+/.settings
 
-/AndroidVkSdkSample/bin
-/AndroidVkSdkSample/gen
-/AndroidVkSdk/bin
-/AndroidVkSdk/gen
-/AndroidVkSdk/target
+#gradle
+.gradle/
+gradle/
+/build
+
+#IDEA or Android Studio files
+/.idea
+*.iml
