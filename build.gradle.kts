@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-	namespace = "ru.borz7zy.sdkvk
+	namespace = "ru.borz7zy.sdkvk"
 	compileSdk = 35
 
 	defaultConfig {
